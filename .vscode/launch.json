@@ -7,8 +7,10 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Launch Chrome against localhost",
-            "url": "http://localhost:8080",
+            "name": "kj Launch Chrome ",
+            "XXXurl": "http://localhost:8080",
+            "url": "file://C:/Users/uzivatel/Documents/GitHub/camera-app/part-1/index.html",
+            "XXXprogram": "C:/Users/uzivatel/Documents/GitHub/camera-app/part-1/index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
